@@ -1,7 +1,9 @@
 # Android-ESP32-CAM-MJPEG-Viewer
 
 
-MJPEG viewer example for Android.
+ESP32-CAM MJPEG viewer example for Android.
+
+Import the project into Android Studio and update the SDK version.
 
 <p align="center">
  <img src="https://github.com/GCY/Android-ESP32-CAM-MJPEG-Viewer/blob/main/res/demo.gif">
